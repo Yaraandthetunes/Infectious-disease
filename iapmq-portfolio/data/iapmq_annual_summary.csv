@@ -1,0 +1,43 @@
+ANO;ORDENADOR_MES;MES;PROCEDIMIENTO;NUMERADOR;DENOMINADOR;TASA;HOMBRE_PRIMERA_INFANCIA;HOMBRE_INFANCIA;HOMBRE_ADOLESCENCIA;HOMBRE_JUVENTUD;HOMBRE_ADULTEZ;HOMBRE_VEJEZ;MUJER_PRIMERA_INFANCIA;MUJER_INFANCIA;MUJER_ADOLESCENCIA;MUJER_JUVENTUD;MUJER_ADULTEZ;MUJER_VEJEZ;DIFERENCIA PORCENTUAL
+2021;;;Revascularización miocárdica;;;4,34;;;;;;;;;;;;;
+2021;;;Cesárea;;;0,47;;;;;;;;;;;;;
+2021;;;Colecistectomía;;;0,23;;;;;;;;;;;;;
+2021;;;Endometritis Post-Cesárea;;;0,23;;;;;;;;;;;;;
+2021;;;Total procedimientos;;;0,31;;;;;;;;;;;;;
+2021;;;Endometritis Post-Parto;;;0,18;;;;;;;;;;;;;
+2021;;;Herniorrafía;;;0,27;;;;;;;;;;;;;
+2022;;;Total procedimientos;;;0,33;;;;;;;;;;;;;6,4
+2022;;;Colecistectomía;;;0,18;;;;;;;;;;;;;21,7
+2022;;;Endometritis Post-Cesárea;;;0,23;;;;;;;;;;;;;0
+2022;;;Endometritis Post-Parto;;;0,25;;;;;;;;;;;;;38,8
+2022;;;Cesárea;;;0,49;;;;;;;;;;;;;4,2
+2022;;;Herniorrafía;;;0,23;;;;;;;;;;;;;-14,8
+2022;;;Revascularización miocárdica;;;4,60;;;;;;;;;;;;;5,9
+2023;;;Herniorrafía;;;0,31;;;;;;;;;;;;;34,7
+2023;;;Revascularización miocárdica;;;3,74;;;;;;;;;;;;;-18,7
+2023;;;Endometritis Post-Parto;;;0,32;;;;;;;;;;;;;28
+2023;;;Total procedimientos;;;0,42;;;;;;;;;;;;;27,2
+2023;;;Endometritis Post-Cesárea;;;0,26;;;;;;;;;;;;;13
+2023;;;Colecistectomía;;;0,26;;;;;;;;;;;;;44,4
+2023;;;Cesárea;;;0,69;;;;;;;;;;;;;40,8
+2024;;;Revascularización miocárdica;;;3,43;;;;;;;;;;;;;-8,2
+2024;;;Colecistectomía;;;0,50;;;;;;;;;;;;;92,3
+2024;;;Endometritis Post-Cesárea;;;0,34;;;;;;;;;;;;;30,7
+2024;;;Herniorrafía;;;0,56;;;;;;;;;;;;;80,6
+2024;;;Cesárea;;;1,00;;;;;;;;;;;;;44,9
+2024;;;Total procedimientos;;;0,60;;;;;;;;;;;;;42,8
+2024;;;Endometritis Post-Parto;;;0,40;;;;;;;;;;;;;25
+2025;;;Herniorrafía;;;0,61;;;;;;;;;;;;;8,9
+2025;;;Revascularización miocárdica;;;5,83;;;;;;;;;;;;;69,9
+2025;;;Endometritis Post-Cesárea;;;0,45;;;;;;;;;;;;;32,3
+2025;;;Total procedimientos;;;0,65;;;;;;;;;;;;;8,3
+2025;;;Colecistectomía;;;0,41;;;;;;;;;;;;;-18
+2025;;;Cesárea;;;0,97;;;;;;;;;;;;;-3
+2025;;;Endometritis Post-Parto;;;0,43;;;;;;;;;;;;;7,5
+2026;;;Total procedimientos;;;0,58;;;;;;;;;;;;;-10,7
+2026;;;Endometritis Post-Cesárea;;;0,23;;;;;;;;;;;;;-48,8
+2026;;;Colecistectomía;;;0,59;;;;;;;;;;;;;43,9
+2026;;;Cesárea;;;0,86;;;;;;;;;;;;;-11,34
+2026;;;Endometritis Post-Parto;;;0,36;;;;;;;;;;;;;-16,2
+2026;;;Herniorrafía;;;0,66;;;;;;;;;;;;;8,2
+2026;;;Revascularización miocárdica;;;3,57;;;;;;;;;;;;;-38,7

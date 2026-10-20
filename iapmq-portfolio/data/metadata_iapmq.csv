@@ -1,0 +1,25 @@
+METADATO;DESCRIPCION
+Serie de tiempo desde;2021 - 2026
+Definición del indicador;Infección localizada o sistémica que se manifiesta después de 48 horas de la instalación de un dispositivo médico o dentro de las 48 horas tras su retiro y que no estaba presente ni en periodo de incubación al momento del ingreso hospitalario. Este evento comprende la vigilancia epidemiológica específica de la ITS-AC (Infección del Torrente Sanguíneo Asociada a Catéter), la ITU-AC (Infección del Tracto Urinario Asociada a Catéter) y la NAV (Neumonía Asociada a Ventilador), conforme a los criterios de caso.
+Utilidad;Identificar la incidencia de las IAD para orientar acciones de prevención, evaluar la efectividad de los paquetes de medidas (bundles) y facilitar la toma de decisiones orientadas a reducir infecciones.
+Meta;Mantener la tasa (por debajo del estándar distrital de < 2,5 por 1.000 días-dispositivo, evaluando mensualmente el cumplimiento de los paquetes de medidas (bundles).
+Forma de cálculo;Numerador: Número de casos nuevos de IAD en el mes Denominador: Total de días de exposición al dispositivo. Por cada 1.000 días-dispositivo.
+Unidad de medición;Tasa por 1.000 días-dispositivo.
+Periodicidad;Mensual
+Fuente de Información ;Sistema Nacional de Vigilancia en Salud Pública (Sivigila)
+Año;Año del reporte
+Ordenador;Número de mes
+MES;Mes o trimestre del reporte
+PROCEDIMIENTO;Tipo de procedimiento que se realiza seguimiento
+NUMERADOR;Número de casos de IAPMQ nuevas por cada uno de procedimientos quirúrgicos vigilado en un mes.
+DENOMINADOR;Número total de procedimientos vigilados que se realizaron durante el mes de vigilancia
+TASA;Tasa de incidencia de IAPMQ: casos nuevos de IAPMQ por cada 100 tipo específico de procedimiento realizados en un mes de seguimiento.
+SEXOHOMBRES;Número de personas con evento de IAD según sexo hombre
+SEXOMUJERES;Número de personas con evento de IAD según sexo mujer
+CVPRIMERA_INFANCIA;Número de personas con evento de IAD según curso de vida primera infancia (0-5 años)
+CVINFANCIA;Número de personas con evento de IAD según curso de vida infancia (6-12 años)
+CVADOLESCENCIA;Número de personas con evento de IAD según curso de vida adolescencia (13 a 17 años)
+CVJUVENTUD;Número de personas con evento de IAD según curso de vida juventud (18 a 28 años)
+CVADULTEZ;Número de personas con evento de IAD según curso de vida adultez (29 a 59 años)
+CVVEJEZ;Número de personas con evento de IAD según curso de vida vejez (60 años en adelante)
+DIFERENCIA PORCENTUAL;Diferencia entre los datos de un periodo como los del periodo del año inmediatamente anterior

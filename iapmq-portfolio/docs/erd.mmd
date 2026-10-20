@@ -1,0 +1,52 @@
+erDiagram
+    surgical_procedure ||--o{ monthly_surveillance : "has monthly reports"
+    monthly_surveillance ||--|{ monthly_cases_demographic : "split into 12 rows"
+    life_stage ||--o{ monthly_cases_demographic : "age band"
+    monthly_surveillance ||--o{ data_quality_notes : "may have"
+
+    surgical_procedure {
+        smallint procedure_id PK
+        varchar name_es UK
+        varchar category "surgical | obstetric"
+    }
+    monthly_surveillance {
+        int surveillance_id PK
+        smallint report_year
+        smallint report_month
+        smallint procedure_id FK
+        int cases
+        int procedures_done
+        numeric rate_per_100 "generated"
+    }
+    monthly_cases_demographic {
+        int surveillance_id PK,FK
+        char sex PK "M | F"
+        smallint life_stage_id PK,FK
+        int cases
+    }
+    life_stage {
+        smallint life_stage_id PK
+        varchar code UK
+        varchar name_es
+        smallint age_min
+        smallint age_max "NULL = 60+"
+    }
+    data_quality_notes {
+        int note_id PK
+        int surveillance_id FK "nullable"
+        varchar issue_type
+        text description
+    }
+    reported_year_total {
+        smallint report_year PK
+        varchar procedure_name PK
+        int cases
+        int procedures_done
+        numeric rate_per_100
+    }
+    reported_annual_summary {
+        smallint report_year PK
+        varchar procedure_name PK
+        numeric annual_rate
+        numeric yoy_pct_diff
+    }
